@@ -82,6 +82,7 @@ validUntil | Long | Timestamp (how many milliseconds have passed since January 1
 
 ```json
 {
+{
 "depositAddress":"1HZcE7ZbwnEKHYcKkva1uZoxZbFvRyK3fm",
 "orderId":"18",
 "orderRequestId":18,
